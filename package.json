@@ -1,0 +1,24 @@
+{
+  "name": "only-numbers",
+  "version": "1.0.0",
+  "description": "NPM package to remove everything except numbers in an input field",
+  "main": "only-numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabbeKG/only-numbers.git"
+  },
+  "keywords": [
+    "regex",
+    "only-numbers",
+    "numbers-only"
+  ],
+  "author": "Gabriel Karlsson Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabbeKG/only-numbers/issues"
+  },
+  "homepage": "https://github.com/GabbeKG/only-numbers#readme"
+}
