@@ -1,6 +1,6 @@
 {
   "name": "only-numbers-gabbekg",
-  "version": "1.1.3",
+  "version": "1.1.7",
   "type": "commonjs",
   "description": "NPM package to remove everything except numbers in an input field",
   "main": "only-numbers.js",
